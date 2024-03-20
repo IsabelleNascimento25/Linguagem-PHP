@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right,rgb(109, 30, 69),rgb(34, 158, 76));
+    margin: 0;
+    padding: 300px;
+    display: flex;
+    min-height: 100vh;
+    border: 20px;
+    padding-top: 20%;
+    background-color: rgb(255, 187, 235);
+    border-radius: 20px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+h1{
+    align-items: center;
+}
+div{
+    border: 12px solid rgb(243, 62, 243);
+    border-radius: 10px;
+    padding-top: 20%;
+    text-align: center;
+
+}
+
+/*seleçoes*/
